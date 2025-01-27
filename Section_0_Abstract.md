@@ -1,0 +1,3 @@
+<h1>Abstract</h1>
+
+This article explores a novel theoretical framework that extends Newton's Law of Universal Gravitation into a Unified Energy Equation. We transition from the classical understanding of force as a function of mass and distance to a perspective where Energy is the primary consideration. The resulting framework offers new insights into phenomena such as Gamma Ray Bursts, Supernovae, and Black Holes by balancing gravitational and radiative components. I propose that these extremes are manifestations of the same underlying principles observed at different Scales, leading to a deeper understanding of cosmic events and the nature of Energy.
