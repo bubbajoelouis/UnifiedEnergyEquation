@@ -1,17 +1,20 @@
 # UnifiedEnergyEquation
+
 Full Title: "A Unified Approach to Energy and Gravitation: Transitioning from Newtonian Mechanics to a Comprehensive Energy Framework and a Unified Energy Equation"
+
 Short Title: "Unified Energy Equation"
+
 Acronym: UEE
 
 
-Section 0: Abstract
-Section 1: Introduction
-Section 2: Transitioning from Force to Energy
-Section 3: Unifying Mass and Energy
-Section 4: Radiation as a Component of Mass-Energy Systems
-Section 5: The Unified Energy Equation
-Section 6: Implications and Conclusions
-Section 7: References: UTE, Philosophiæ Naturalis Principia Mathematica, etc.
+* Section 0: Abstract
+* Section 1: Introduction
+* Section 2: Transitioning from Force to Energy
+* Section 3: Unifying Mass and Energy
+* Section 4: Radiation as a Component of Mass-Energy Systems
+* Section 5: The Unified Energy Equation
+* Section 6: Implications and Conclusions
+* Section 7: References: UTE, Philosophiæ Naturalis Principia Mathematica, etc.
 
 
 
